@@ -66,10 +66,9 @@ Tudo é salvo automaticamente em JSON e carregado em tempo real.
 <h2>🚀 Instalação</h2>
 
 <pre>
-1. Coloque a pasta "legacy_shops" em resources
-2. Adicione: ensure legacy_shops no server.cfg
-3. Configure a permissão ACE (opcional)
-4. Inicie o servidor
+1. Coloque a pasta "mri_Qshop" em resources
+2. Configure a permissão ACE
+3. Inicie o servidor
 </pre>
 
 <h3>Permissão ACE (opcional)</h3>
